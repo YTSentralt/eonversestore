@@ -1,1 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  color: #333;
+  text-align: center;
+  margin: 50px;
+}
 
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#eonverse-logo {
+  width: 100px; /* Adjust the size as needed */
+  height: auto;
+  margin-right: 20px;
+}
+
+h1 {
+  color: #3498db;
+}
+
+section {
+  margin-top: 30px;
+}
+
+h2 {
+  color: #3498db;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+}
+
+footer {
+  margin-top: 50px;
+}
+
+/* Add more styles based on your preferences */
